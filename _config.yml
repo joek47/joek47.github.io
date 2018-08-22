@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Site Links
 description:
+header_pages:
+  - https://github.com/joek47/cybersecurity/blob/gh-pages/index.md
+  - https://github.com/joek47/machinelearning/blob/gh-pages/index.md
