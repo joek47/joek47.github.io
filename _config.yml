@@ -1,7 +1,13 @@
 theme: jekyll-theme-minimal
 title: My Resume
-description:
+description: 
 show_downloads: True
+github:
+  twitter_url: https://twitter.com/joekoh47
+  home_url: https://github.com/joek47
+  cv_url: https://github.com/joek47
 header_pages:
   - https://github.com/joek47/cybersecurity/blob/gh-pages/index.md
   - https://github.com/joek47/machinelearning/blob/gh-pages/index.md
+  
+  
