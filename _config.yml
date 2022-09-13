@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: My Resume
 description: 
-show_downloads: True
+show_downloads: False
 github:
   twitter_url: https://twitter.com/joekoh47
   home_url: https://github.com/joek47
