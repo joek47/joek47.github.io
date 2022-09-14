@@ -1,19 +1,14 @@
+# About me
+- [Github](https://github.com/joek47)
+- [Kaggle](https://www.kaggle.com/joek47)
+- [Google Cloud](https://www.cloudskillsboost.google/public_profiles/ded86bf7-02a9-4bc9-87bf-12c4f0e513d8)
+- [THM](https://tryhackme.com/p/hel0)
 
-## ML/DL Projects
-
-- ### Cyber Security
-    - phishing URL detection with CNN and attention
-    - malware detection with attention
-    - whitebox, blackbox explainable AI in malware detection
-
-- ### Others
-    - seniority mining in social networks
-    - image segmentation with Mask RCNN
-    - stock market prediction
-
-## Presentations
-- control flow integrity
-- malware detection
-- IoT energy limits
-
-## Courses
+## Machine learning
+- protocol tunnelling anomaly detection
+- phishing URL detection with CNN and attention
+- malware detection with attention
+- explainable AI in malware detection
+- image segmentation with Mask RCNN
+- stock market prediction
+- seniority data mining in social networks
